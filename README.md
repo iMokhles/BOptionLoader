@@ -6,6 +6,8 @@ side load BOptionsPro for BBM to improve BBM app on iOS device ( first BBM tweak
 
 - place your BBM app ipa file inside this repo folder ( rename it to app.ipa )
 - change the app bundle id from Xcode
+- go to Capabilities then Fix iCloud also
+- DONE now next step 
 - hit Play ( ^^ )
 
 ### Support
